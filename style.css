@@ -1,0 +1,26 @@
+h1 {
+  color: rgb(82, 82, 194);
+}
+
+body {
+  /* install color for over page */
+  color: rgb(0, 0, 0);
+}
+
+.btn {
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  font-size: 14px;
+}
+
+.btn-1 {
+  background-color: darkcyan;
+}
+
+.btn-2 {
+  background-color: #9e688c;
+}
+
+.btn-3 {
+  background-color: #78a872;
+}
