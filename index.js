@@ -1,8 +1,6 @@
 let FirstValue = 'SomethingValue';      // let == var
-console.log(FirstValue);
 
 const radioWave = 108.5;                // if you don't want change variable you must use CONST
-console.log(radioWave);
 
 
 // js have a dynamic data types as:
@@ -17,7 +15,6 @@ let person = {
     Name: 'Other',
     Age: '23',
 }
-console.log(person);
 person.Age = 34;                        // we change the value of ages throw point '.'
 
 console.log(person.Name);               // out value of the first elem of variable
